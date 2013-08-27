@@ -1,4 +1,4 @@
-goal_tracker
+A Goal Tracking Website
 ============
 
-A webapp to track goals
+A web app built to track goals.
